@@ -1,6 +1,7 @@
 # albumscart_app
 
 Music Album Cart Project
+
 This is a web-based Music Album Cart application where users can browse, purchase, and manage music albums. The platform allows users to interact with various features, such as rating albums, adding them to the cart or wishlist, and viewing the total cost of their selected items. Users can also filter albums by genre and enjoy a personalized experience through login and logout functionality.
 
 Key Features:
